@@ -10,6 +10,7 @@ ssh clone git@github.com:opengeospatial/portrayal-dwg-ogc-org.git
 
 ### …or create a new repository on the command line
 
+```
 echo "# portrayal-dwg-ogc-org" >> README.md
 git init
 git add README.md
@@ -17,6 +18,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:opengeospatial/portrayal-dwg-ogc-org.git
 git push -u origin main
+```
 
 ### …or push an existing repository from the command line
 
