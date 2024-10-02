@@ -1,0 +1,17 @@
+# OS generated files #
+######################
+Desktop.ini
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+Icon
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
